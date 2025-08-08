@@ -23,13 +23,13 @@ This makes it fast and suitable for real-time applications, especially on resour
 
 ## Emotion Categories
 The model predicts one of the following 7 emotions:
-Angry
-Disgust
-Fear
-Happy
-Neutral
-Sad
-Surprise
+- Angry
+- Disgust
+- Fear
+- Happy
+- Neutral
+- Sad
+- Surprise
 
 ##  License
 This project is open-source and available under the MIT License.
